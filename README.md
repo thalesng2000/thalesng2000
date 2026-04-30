@@ -18,7 +18,7 @@ Busco transformar dados brutos em decisões inteligentes através de análises e
 ### 🚀 O que estou fazendo agora
 
 *   🎓 **Estudando:**
-        Power BI na instituição Senac RJ;
+        Power BI na instituição Senac Santa Luzia - RJ;
         Curso de Python do básico ao avançado - com projetos reais.
 
 *   📫 Como me encontrar:
